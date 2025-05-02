@@ -38,7 +38,7 @@ MySQL
 bash
 Copy
 Edit
-git clone <your-repo-url>
+git clone <https://github.com/solomonifeoluwa/mini-library.git>
 cd mini-library
 2. Install Dependencies
 bash
